@@ -7,7 +7,7 @@ The programs are written for learning, practice, and academic use — covering f
 
 ### 📄 Download the PDF
 
-📎 [Click here to view/download](Java_Programs_Collection.pdf)
+📎 [Click here to view/download](https://github.com/SushmaKharat26/java_programs_collection/blob/main/Java_programs_SushmaKharat.pdf)
 
 ---
 
